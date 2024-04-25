@@ -1,0 +1,125 @@
+course = "centria-csharp-advanced-spring-24"
+
+[exercises.part_08-001_nicknames]
+id = 229869
+checksum = "3c02948c612c089f41ba69a26ed7ffe4"
+
+[exercises.part_08-002_abbreviations]
+id = 229871
+checksum = "a3ea2b6e3363ee2ea9f38d48af0cec5b"
+
+[exercises.part_08-003_print_dictionary_keys]
+id = 229875
+checksum = "fa42da204314b40c68367d264077bf3f"
+
+[exercises.part_08-004_book_dictionary]
+id = 229873
+checksum = "3e08a536d9d7dd48414e075ce1ee597d"
+
+[exercises.part_08-005_i_owe_you]
+id = 229870
+checksum = "698297e39707fb922691dd13f048f7e5"
+
+[exercises.part_08-006_same_date]
+id = 229877
+checksum = "9b529c89b6d76685f86781030f633a5e"
+
+[exercises.part_08-007_vehicle_registry]
+id = 229876
+checksum = "83e20b1632929bf98c4f49aaa03e3a04"
+
+[exercises.part_08-008_dictionary_of_many_translations]
+id = 229872
+checksum = "3d115ecd2f127c538d38f437acbde5ee"
+
+[exercises.part_08-009_storage_facility]
+id = 229874
+checksum = "667ada3d922a34ced89f640cb28e9fa1"
+
+[exercises.part_09-001_abc]
+id = 229863
+checksum = "6317e23fd9a864752e859d737cbd12df"
+
+[exercises.part_09-002_person_and_subclasses]
+id = 229856
+checksum = "596e25bd022db8435dad1723ff5b6fa6"
+
+[exercises.part_09-003_warehousing]
+id = 229857
+checksum = "ae4569edae75ca5702c69c4096a3e7e9"
+
+[exercises.part_09-004_different_boxes]
+id = 229859
+checksum = "847e98ad44cfcff9f78b24866edbb03b"
+
+[exercises.part_09-005_taco_boxes]
+id = 229858
+checksum = "947c087ad4b98b44dfb301e842ad3c88"
+
+[exercises.part_09-006_interface_in_a_box]
+id = 229860
+checksum = "ef461033693b56bc0e0681796d68f02c"
+
+[exercises.part_09-007_herds]
+id = 229862
+checksum = "30cfb3b6d14721e533f0c8aa82f36baf"
+
+[exercises.part_09-008_animals]
+id = 229861
+checksum = "182b4778545faa47c08975d162282a28"
+
+[exercises.part_10-001_wage_order]
+id = 229866
+checksum = "a7a5682d2515e78527dd42a01faa6181"
+
+[exercises.part_10-002_students_in_alphabetical_order]
+id = 229865
+checksum = "63ce80453299b83cf616303609587532"
+
+[exercises.part_10-003_literacy_comparison]
+id = 229867
+checksum = "be61d07f7a89aa1cedb6edcf84fff34c"
+
+[exercises.part_10-004_regular_expressions_checker]
+id = 229868
+checksum = "4222364967a27d9ab924c09a64fe761b"
+
+[exercises.part_10-005_sort_them_cards]
+id = 229864
+checksum = "f74e3173702f91fb1a6fbb9892701ef2"
+
+[exercises.part_11-001_dice]
+id = 229855
+checksum = "0341ae119f0272b268629ef59f03310a"
+
+[exercises.part_11-002_lottery_row]
+id = 229851
+checksum = "19c0597397722a294889ae193d019f57"
+
+[exercises.part_11-003_argument_exception]
+id = 229853
+checksum = "0c10db1dc72e4c2fc683a99c4a9a4aa9"
+
+[exercises.part_11-004_sensors_and_temperature]
+id = 229854
+checksum = "00f8113aa069fe7c66fa6575a7869d50"
+
+[exercises.part_11-005_saveable_dictionary]
+id = 229852
+checksum = "e2fb9f8b483ad3e47a73d811544c2736"
+
+[exercises.part_12-001_namespace_example]
+id = 229881
+checksum = "dcfe13111689629d2e72afec2118b9b3"
+
+[exercises.part_12-002_using_directives]
+id = 229878
+checksum = "a70835c8bd0d02684c5fc834a7b85dc6"
+
+[exercises.part_12-003_aliases]
+id = 229879
+checksum = "6d2348fe11977a50ec28a0dd491f7777"
+
+[exercises.part_12-004_using_streamwriter]
+id = 229880
+checksum = "4c2a58b61e771fbe638f9d91870a0188"
